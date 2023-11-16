@@ -8,7 +8,7 @@
 5. [Stored procedures](##Stored-procedures-in-R)
 6. [Business questions](##Business-questions)
 7. [Recommendation from findings](##Recommendation-from-findings)
-8. [Data Visualization  Dashboard](##Data Visualization-Dashboard)
+8. [Data Visualization Dashboard](##Data-Visualization-Dashboard)
 
 ## Overview
 This is the portfolio Project for my Coursera Data Analytics certification and in this project I worked on the datasets provided to 
@@ -58,5 +58,8 @@ that investing enough resources into winning them over to becoming paid members 
 
 ## Data Visualization Dashboard
  
+
+
+![Picture3](https://github.com/Kaykstheanalyst/Portfolio-Project-Excel/assets/150609177/0e745479-654d-4910-adb6-d3ba8c2ef843)
 
 
